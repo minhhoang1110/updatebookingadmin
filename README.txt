@@ -1,0 +1,5 @@
+-Copy file trong folder public sang public/admin
+-Copy file trong folder views sang views/admin
+-Copy hoadonControllers sang folder controllers
+-Copy hoaddonModels sang modelsAdmin 
+-Copy hoadonRoutes sang routesAdmin
